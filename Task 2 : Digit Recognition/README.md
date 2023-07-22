@@ -4,13 +4,14 @@
   <li>Numpy</li>
   <li>Tkinter</li>
   <li>Pillow</li>
-  ```
+</ol>
+
+ ```
   $ pip install scipy
   $ pip install numpy
   $ pip install tkinter
   $ pip install Pillow
   ```
-</ol>
 
 <h2>Steps to run the program</h2>
 <ol>
