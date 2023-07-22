@@ -7,10 +7,10 @@
 </ol>
 
  ```
-  $ pip install scipy
-  $ pip install numpy
-  $ pip install tkinter
-  $ pip install Pillow
+  pip install scipy
+  pip install numpy
+  pip install tkinter
+  pip install Pillow
   ```
 
 <h2>Steps to run the program</h2>
